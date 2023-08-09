@@ -1,0 +1,481 @@
+div{
+	height: 3500px;
+	width: 1000px;
+	background-color: yellowgreen;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.a{
+	background-color: white;
+	height: 500px;
+	width: 1000px;
+}
+.a1{
+	
+	height: 500px;
+	width: 600px;
+	background-image:url(images/bread.jpg);
+	background-size: 600px 500px;
+	background-repeat: no-repeat;
+	float: left;
+}
+.a2{
+	background-color: lightpink;
+	height: 500px;
+	width: 400px;
+    float: right;
+    
+   
+}
+.h2{
+	color: Brown;
+	padding-top:170px ;
+	 font-size: 30px;
+}
+.p{
+	padding-top: 10px;
+	padding-right: 80px;
+	padding-left: 55px;
+	font-size: 20px;
+}
+.button{
+	background-color: orange;
+	color: white;
+	border-radius: 10px ;
+	width: 120px;
+	height: 40px;
+	margin-top: 40px;
+	font-size: 18px;
+}
+.b{
+	background-image: url(images/pastry.jpg);
+	background-size:1000px 200px ;
+	height: 285px;
+	width: 1000px;
+}
+.b1{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+    position: relative;
+    top:100px;
+    border: 3px solid black;
+     border-radius: 7px ;
+}
+.b2{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	position:relative;
+    top:100px;
+    border: 3px solid black;
+     border-radius: 7px ;
+	
+}
+.b3{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	position:relative;
+    top:100px;
+	 border: 3px solid black;
+	  border-radius: 7px ;
+}
+.b4{
+	height: 250px;
+	width: 200px;
+	background-color: white;
+	float: right;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	margin-right: 60px;
+	position:relative;
+    top:100px;
+     border: 3px solid black;
+      border-radius: 7px ;
+	
+}
+.c{
+	height: 700px;
+	width:1000px;
+	background-color: pink;
+}
+.x{
+	height: 700px;
+	width:500px;
+	float: left;
+	background-color: pink;
+
+}
+.x img{
+	height: 500px;
+	width: 500px;
+	border-radius: 50%;
+	margin-top: 100px;
+}
+.z{
+	background-color: pink;
+	height: 700px;
+	width: 500px;
+}
+.h3{
+	color: brown;
+	margin-bottom: 20px;
+	padding-top: 200px;
+	font-size: 30px;
+	margin-left:150px;
+
+}
+.zp{
+	color: black;
+	font-size: 20px;
+	/*padding-left:100px ;
+	padding-right: 5px;
+	padding-top: 1px;
+    padding-bottom: 500px;*/
+}/*
+.devi{
+  
+	background-color: orange;
+	color: white;
+	border-radius: 10px ;
+	width: 80px;
+	height: 35px;
+	margin-bottom: 10px;
+}*/
+.d{
+	height: 250px;
+	width: 1000px;
+	background-color:white;
+}
+.d1{
+	height: 250px;
+	width:280px ;
+	background-color: orange;
+	float: left;
+	margin-left: 50px;
+	border: 3px solid black;
+	border-radius: 7px;
+	position: relative;
+	bottom: 50px;
+    
+}
+.d2{
+	height: 250px;
+	width:280px ;
+	background-color: black;
+	float: left;
+	margin-left: 30px;
+	border: 3px solid black;
+	border-radius: 7px;
+	position: relative;
+	bottom: 50px;
+}
+.d3{
+	height: 250px;
+	width:280px ;
+	background-color: orange;
+	float: left;
+	margin-left: 30px;
+	margin-right: 50px;
+	border: 3px solid black;
+	border-radius: 7px;
+	position: relative;
+	bottom: 50px;
+}
+.ab{
+	font-size: 35px;
+	text-align: left;
+	color: white;
+
+}
+.bc{
+	font-size: 35px;
+	text-align: left;
+	color: white;
+}
+.cd{
+	font-size: 35px;
+	text-align: left;
+	color: white;
+}
+.abb{
+	font-size: 19px;
+	color: white;
+}
+.bcc{
+	font-size: 19px;
+	color: white;
+}
+.cdd{
+	font-size: 19px;
+	color: white;
+}
+.e{
+	height: 300px;
+	width: 1000px;
+	background-color: white;
+}
+.ea{
+	font-size: 40px;
+}
+.eb{
+	color: black;
+	font-size: 25px;
+}
+.f{
+	background-image: url(images/items.jpg);
+	background-size: 1000px 720px;
+	background-repeat: no-repeat;
+}
+.fa{
+	height:450px;
+	width: 310px;
+	border: 3px solid black;
+	border-radius: 10px;
+	float: right;
+	background-color:white ;
+	position: relative;
+	top:130px;
+	margin-right: 95px;
+}
+.fb{
+	font-size: 30px;
+	color:black;
+}
+.fc{
+	font-size: 20px;
+	color: black;
+}
+.fd{
+	height: 30px;
+	width: 130px;
+	background-color: orange;
+	color: white;
+	border-radius: 10px;
+	font-size: 20px;
+}
+.g{
+	margin-top: 200px;
+	padding-top: 100px;
+	height: 1200px;
+	width: 1000px;
+	background-color: white;
+	position: relative;
+	bottom: 3000px;
+}
+.ga{
+	font-size: 35px;
+	background-color: white;
+	color: darkred;
+}
+.gb{
+	font-size: 25px;
+	background-color: white;
+	color: black;
+	padding-left: 20px;
+	padding-right: 10px;
+}
+.gc{
+	background-color:white;
+	height: 300px;
+	width: 1000px;
+	margin-top: 90px;
+}
+.gca{
+	background-image: url(images/baguette1.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 40px;
+	margin-left: 40px;
+	background-size: cover;
+}
+
+.gcb{
+	background-image: url(images/brownbread.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+background-size: cover;
+
+}
+.gcc{
+	background-image: url(images/cheese2.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+background-size: cover;
+}
+.gd{
+	height: 300px;
+	width: 1000px;
+	background-color: white;
+	margin-top: 100px;
+}
+.gda{
+	background-image: url(images/milk1.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+	background-size: cover;
+}
+.gdb{
+	background-image: url(images/farmbread.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+	background-size: cover;
+}
+.gdc{
+	background-image: url(images/croissant.jpg);
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	float: left;
+	margin-left: 40px;
+	margin-right: 40px;
+	background-size: cover;
+}
+.h{
+	height: 150px;
+	width: 1000px;
+	background-color: orange;
+	position:relative ;
+	bottom: 3000px;
+}
+.ha{
+	height: 150px;
+	width: 1000px;
+	background-color: orange;
+	color: white;
+}
+.hb{
+	height: 150px;
+	width: 1000px;
+	background-color: orange;
+	color: white;
+}
+.hbb{
+	height: 40px;
+	width: 160px;
+	background-color: orange;
+	border-radius: 10px;
+	color: white;
+	padding-left: 10px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.hap{
+	color: white;
+	font-size: 30px;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+.i{
+	background-image: url(images/all.jpg);
+	height: 600px;
+	width: 1000px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	bottom: 3000px;
+}
+.ia{
+	color: white;
+	font-size: 40px;
+	padding-top: 170px;
+}
+.ib{
+	color: white;
+	font-size: 25px;
+	padding-top: 150px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.ic{
+	font-size: 20px;
+	height: 40px;
+	width: 160px;
+	background-color: orange;
+	border-radius: 10px;
+	color: white;
+	margin-top: 40px;
+}
+.ie{
+	font-size: 20px;
+	height: 40px;
+	width: 160px;
+	border-radius: 10px;
+	color: black;
+background-color: white;
+margin-top: 40px;
+}
+.j{
+	height: 800px;
+	width: 1000px;
+	background-image: url(images/cake.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	bottom: 3000px;
+/*	margin-top: 25px;*/
+	background-color: white;
+	margin-bottom: 5px;
+}
+.za{
+	padding-top: 50px;
+
+}
+.zb{
+	padding-top: 50px;
+}
+.zc{
+	padding-top: 50px;
+}
+.zd{
+	padding-top: 50px;
+}
+.xa{
+	padding-top: 20px;
+	color: orange;
+}
+.xd{
+	padding-top: 20px;
+	color: orange;
+}
+.xb{
+	padding-top: 20px;
+	color: orange;
+}
+.xc{
+	padding-top: 20px;
+	color: orange;
+}
